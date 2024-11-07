@@ -1,0 +1,4 @@
+﻿  2.2.cpp
+D:\zhimeng\Desktop\rg240104congfeifan\2.2\2.2.cpp(7,19): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+D:\zhimeng\Desktop\rg240104congfeifan\2.2\2.2.cpp(9,1): warning C4715: “func”: 不是所有的控件路径都返回值
+  2.2.vcxproj -> D:\zhimeng\Desktop\rg240104congfeifan\2.2\x64\Debug\2.2.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\zhimeng\\Desktop\\rg240104congfeifan\\2.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A324E037-4B56-41A7-B9E9-0840A665FA8A}|2.7.vcxproj|D:\\zhimeng\\Desktop\\rg240104congfeifan\\2.7\\2.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A324E037-4B56-41A7-B9E9-0840A665FA8A}|2.7.vcxproj|solutionrelative:2.7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2.7.cpp",
+              "DocumentMoniker": "D:\\zhimeng\\Desktop\\rg240104congfeifan\\2.7\\2.7.cpp",
+              "RelativeDocumentMoniker": "2.7.cpp",
+              "ToolTip": "D:\\zhimeng\\Desktop\\rg240104congfeifan\\2.7\\2.7.cpp",
+              "RelativeToolTip": "2.7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T13:00:32.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
